@@ -2,10 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Developer</h3>
 
+<h5 align="center">I'm looking for a job as Trainee/Junior Java Developer in Minsk, Belarus.<br> I will be glad to consider any opportunities. </h5>
+
 <details><summary>Education</summary>
     In 2017 I graduated from Belarusian National Technical University. I have a degree in engineering.<br>
     In 2021-2022 I completed cources <a href="https://drive.google.com/file/d/1f0xK8xyqcieZLQVpTAkDCNjr6DLWN7sD/view">Java Fundamentals</a>
-    and <a href="https://drive.google.com/file/d/1f0xK8xyqcieZLQVpTAkDCNjr6DLWN7sD/view">Java Enterprise Development</a>.<br>
+    and <a href="https://drive.google.com/file/d/1qvEEZsgJnk5mT1zFKUSt34t9Z8vc9wyx/view">Java Enterprise Development</a>.<br>
     Also now I’m taking a course in English (group B1).
 </details>
 
@@ -51,12 +53,6 @@
     <li>Swagger</li>
   </ul>
 </details>
-  
-<details><summary>Repositories</summary>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtyomBorisov&repo=FinanceApplication)](https://github.com/ArtyomBorisov/FinanceApplication)
-
-</details>
 
 <details><summary>Contacts</summary>
   
@@ -65,3 +61,4 @@
   linkedIn: [in/ArtyomBorisov](https://www.linkedin.com/in/artyomborisov/)
 </details>
 
+<a href="https://github.com/ArtyomBorisov/ArtyomBorisov/blob/main/Repositories.md">Repositories</a>
