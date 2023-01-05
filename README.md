@@ -1,8 +1,41 @@
-<h1 align="center">Hi there, I'm Artyom</a> 
+<h1 align="center">Hi there, I'm Artyom 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Developer</h3>
 
 <h5 align="center">I'm looking for a job as Trainee/Junior Java Developer in Minsk, Belarus.<br> I will be glad to consider any opportunities. </h5>
+
+<h2 align="center">My repositories</h2>
+
+<details><summary>Pet-projects</summary>
+  This project was final at Java Enterprise Development Course. After the completion I continue to work on the project and add new features.
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtyomBorisov&repo=FinanceApplication)](https://github.com/ArtyomBorisov/FinanceApplication)
+</details>
+
+<details><summary>Test tasks</summary>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtyomBorisov&repo=CheckPrinter)](https://github.com/ArtyomBorisov/CheckPrinter)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtyomBorisov&repo=TestTaskShop)](https://github.com/ArtyomBorisov/TestTaskShop)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtyomBorisov&repo=TestTaskCryptoCurrencyWatcher)](https://github.com/ArtyomBorisov/TestTaskCryptoCurrencyWatcher)
+</details>
+
+<details><summary>Java Enterprise Development, IT-Academy</summary>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtyomBorisov&repo=ClassWorkJD2)](https://github.com/ArtyomBorisov/ClassWorkJD2)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtyomBorisov&repo=ITAcademyMessenger)](https://github.com/ArtyomBorisov/ITAcademyMessenger)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtyomBorisov&repo=ITAcademyMessengerSpringBoot)](https://github.com/ArtyomBorisov/ITAcademyMessengerSpringBoot)
+</details>
+
+<details><summary>Java Core Course, IT-Academy</summary>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtyomBorisov&repo=ITAcademyJavaCore)](https://github.com/ArtyomBorisov/ITAcademyJavaCore)
+</details>
+
+<h2 align="center">About me</h2>
 
 <details><summary>Education</summary>
     In 2017 I graduated from Belarusian National Technical University. I have a degree in engineering.<br>
@@ -60,5 +93,3 @@
   email: booorisov@mail.ru<br>
   linkedIn: [in/ArtyomBorisov](https://www.linkedin.com/in/artyomborisov/)
 </details>
-
-<a href="https://github.com/ArtyomBorisov/ArtyomBorisov/blob/main/Repositories.md">Repositories</a>
