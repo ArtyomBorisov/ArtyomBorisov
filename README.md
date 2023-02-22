@@ -3,10 +3,3 @@
 <h3 align="center">Java Developer</h3>
 
 <h5 align="center">I'm looking for a job as Trainee/Junior Java Developer in Minsk, Belarus.<br> I will be glad to consider any opportunities. </h5>
-
-<details><summary>Contacts</summary>
-  
-  telegram: [@booorisov](https://t.me/booorisov)<br>
-  email: booorisov@mail.ru<br>
-  linkedIn: [in/ArtyomBorisov](https://www.linkedin.com/in/artyomborisov/)
-</details>
