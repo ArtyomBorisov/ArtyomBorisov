@@ -3,3 +3,5 @@
 <h3 align="center">Java Developer</h3>
 
 <h5 align="center">I'm looking for a job as Trainee/Junior Java Developer in Minsk, Belarus.<br> I will be glad to consider any opportunities. </h5>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ArtyomBorisov?theme=light&font=ABeeZee&ext=heatmap&cache=0)
